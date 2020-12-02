@@ -225,3 +225,14 @@ examples/models/autoscaling/autoscaling_example.py
 
 # vscode local history
 .history/
+
+
+#
+engine/.factorypath
+examples/models/h2o_mojo/.factorypath
+incubating/wrappers/java/.vscode/
+incubating/wrappers/java/src/main/k8s/
+incubating/wrappers/java/src/main/proto/k8s.io/
+incubating/wrappers/java/src/main/proto/k8s.src/
+incubating/wrappers/java/src/main/proto/seldon_deployment.proto
+incubating/wrappers/java/src/main/proto/tensorflow.src/
